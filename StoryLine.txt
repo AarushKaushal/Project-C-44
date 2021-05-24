@@ -1,9 +1,32 @@
-StoryLine: The story starts with a girl going to her bedroom logging on to her laptop and finding a new game website. 
-Then, she ends up getting multiple ads for winning a new ipad by entering all personal information like location, credit card 
-number and much more. Then what happens is her mom comes into the room telling her that her credit card has been declined and that 
-all of her money has disappeared and the girl tells her mom that she put the credit card number in a website and her parents say that 
-she got scammed and it is fake. Then she hears a doorbell and looks in the peep hole to find a suspicious looking person. And her 
-parents go ahead and call the police. The police soon tell them that this person was a scammer who figured personal credentials and
- tried to steal and attack them and their identity. Wil you help her so that she gets all of her personal information back?
+Name : Cut and Run
 
-Level 1: Is going to be like Trex Runner Game. Try and remember the code used in that game.
+Characters : PC - Nova*a boy strong boy who goes through many adventures on the way to capital and then was regarded as the general of the kingdom and then goes to an official adventure from the palace
+
+​ NPC- Wolf,Red Ridding Hood, Troll &Ghost
+
+Story : Nova wants to run away from the Wolf and Red Ridding Hood and reach the safe place (the castle)
+
+Goals : Reaching the castle and completing the missions given by the the higher authorities
+
+Rules :
+
+press the up arrow key to make the player run
+game will be over if the player touches the red ridding hood or the wolf
+press the space bar to jump
+Adaptivity : Increase the speed of the player as he goes further
+
+Skill : To be able to press the arrow keys and there is only one chance to win
+
+Feedback : 1. Provide help at the right moment like second level
+
+​ 2. Make sound when the player jumps, runs, wins and losses
+
+task1 : create the serve state with the story line, create the player control
+
+task2 : create the game ascites, create the play state
+
+task3 : create game over and restart
+
+task4 : debugging
+
+​
